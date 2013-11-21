@@ -1,1 +1,1 @@
-This is another file
+This is a new file
